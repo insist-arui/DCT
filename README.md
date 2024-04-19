@@ -1,4 +1,5 @@
-#[ ]Installation <br>
+Installation <br>
+=
 MMaction2 depends on Pytorch,MMCV <br>
 **Environment preparation<br>
 conda create --name openmmlab python=3.8 -y<br>
